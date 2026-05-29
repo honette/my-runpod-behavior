@@ -3,6 +3,7 @@ input_images/*.jpg
 input_images/*.jpeg
 input_images/*.png
 input_images/*.webp
+!input_images/sample.webp
 output_videos/*
 
 __pycache__
