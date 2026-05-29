@@ -6,7 +6,7 @@ import time
 from pathlib import Path
 
 # ============== 設定ここを書き換えて ==============
-ENDPOINT_ID = "your-endpoint-id-here"
+ENDPOINT_ID = "vff1wa9um0axj8"
 API_KEY = "your-runpod-api-key-here"
 WORKFLOW_PATH = "api-workflow.json"
 
